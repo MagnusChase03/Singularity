@@ -13,7 +13,7 @@ npm install
 ```
 
 ## To Run
-Open a terminal in ```/backend``` and run ```PORT={desired port} npm start```
+Open a terminal in ```/backend``` and run ```PORT=3001 npm start```
 In another terminal open ```/frontend``` and run ```npm run dev```
 
 Then navigate to ```localhost:3000```
