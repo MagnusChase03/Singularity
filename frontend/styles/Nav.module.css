@@ -1,0 +1,51 @@
+.logo {
+    height: 2.4vh;
+    /* width: 12.24vh; */
+    padding: 0rem;
+}
+
+
+.navTitle:hover {
+    color:#333
+}
+
+.navBar {
+    max-width: 100vw;
+    height: 5vh;
+}
+
+.navBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0rem;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navBar li {
+    float: left;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.navBar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navBar li a:hover {
+    background-color: #111;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+}
+

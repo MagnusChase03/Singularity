@@ -1,0 +1,51 @@
+#content {
+
+    background-color: #dddddd;
+    padding: 35px;
+
+}
+
+hr {
+
+    background-color: #333;
+
+}   
+
+#inputField {
+
+    margin-left: 10px;
+
+}
+
+
+.inputField {
+
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+#submitButton {
+
+    margin-left: 10px;
+
+}
+
+.organizationRow {
+
+    display: flex;
+    align-items: center;
+
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    background-color: #333;
+    color: #fff;
+
+}
+
+.lineSplit {
+
+    background-color: #ddd;
+
+}
